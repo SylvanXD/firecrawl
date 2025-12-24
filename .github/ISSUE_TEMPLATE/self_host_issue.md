@@ -2,7 +2,7 @@
 name: Self-host issue
 about: Report an issue with self-hosting Firecrawl
 title: "[Self-Host] "
-labels: self-host
+labels: ''
 assignees: ''
 
 ---

@@ -1,36 +1,38 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[Bug] "
-labels: bug
+title: ''
+labels: ''
 assignees: ''
 
 ---
 
-**Describe the Bug**
-Provide a clear and concise description of what the bug is.
+**Describe the bug**
+A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the issue:
-1. Configure the environment or settings with '...'
-2. Run the command '...'
-3. Observe the error or unexpected output at '...'
-4. Log output/error message
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-**Expected Behavior**
+**Expected behavior**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots or copies of the command line output to help explain the issue.
+If applicable, add screenshots to help explain your problem.
 
-**Environment (please complete the following information):**
-- OS: [e.g. macOS, Linux, Windows]
-- Deployment Type: [Cloud (firecrawl.dev) / Self-hosted]
-- Firecrawl Version: [e.g. 1.2.3]
-- Node.js Version: [e.g. 14.x]
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-**Logs**
-If applicable, include detailed logs to help understand the problem.
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-**Additional Context**
-Add any other context about the problem here, such as configuration specifics, network conditions, data volumes, etc.
+**Additional context**
+Add any other context about the problem here.
